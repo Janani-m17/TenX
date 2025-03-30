@@ -38,7 +38,7 @@ TenX is a task management system designed to help users efficiently organize, tr
 - MySQL (or PostgreSQL) for data storage
 
 ### Prototype
-
+https://github.com/user-attachments/assets/693ecef0-e31f-4980-b875-9e308a3ac185
 
 ---
 ## Folder Structure
