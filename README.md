@@ -117,3 +117,6 @@ TenX Frontend
 
 ---
 ## Contributors
+rithika.s2022cce@sece.ac.in
+swetha.s2022cce@sece.ac.in
+shrinaya.sk2022cce@sece.ac.in
